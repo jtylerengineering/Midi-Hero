@@ -7,8 +7,9 @@ The MIDI-Hero is a custom MIDI that mimics a *Guitar Hero* controller that was c
 #### Component BOM
 Below is a list of components you will need, and where I sourced them from.
 
-| Component | Units | Price per unit | Source |
+| Component | Units (how many of each set you will have to buy) | Price per unit | Source |
 | --- | --- | --- | --- |
+| PCB | 1 | $8.80 | <a href="https://jlcpcb.com/">JLPCB</a> |
 
 #### Other
 Other than the above, you will need:
