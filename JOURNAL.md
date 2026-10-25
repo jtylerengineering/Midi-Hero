@@ -67,6 +67,6 @@
 I worked on the repository this session. The Readme now has a basic framework to add to when I commit the final thing. I have also found a library that should function with both the analog input of the joystick as well as the microcontroller.
 My next steps are to start developing the firmware when I get home. I plan to exceed my normal 2hrs a day timetable so that I can study for the ACT tomorrow.
 
-![Screenshot 2026-10-22 122104](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/o50ahq5LZfgfVNXxQFq0VHymdocnCotx/d9cf5c2d8570b8840ae9dc08d330038c22570548196190fdfcb88e7ea3345daf.png)
+![Screenshot 2026-10-22 122104](https://halflife.hackclub-assets.com/sessions/o50ahq5LZfgfVNXxQFq0VHymdocnCotx/d9cf5c2d8570b8840ae9dc08d330038c22570548196190fdfcb88e7ea3345daf.png)
 
-![Screenshot 2026-10-22 122338](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/o50ahq5LZfgfVNXxQFq0VHymdocnCotx/4cb5c37b52c0fe6fb52b01a0ae925807ca57a9b64d3e00e02329e39d345b7624.png)
+![Screenshot 2026-10-22 122338](https://halflife.hackclub-assets.com/sessions/o50ahq5LZfgfVNXxQFq0VHymdocnCotx/4cb5c37b52c0fe6fb52b01a0ae925807ca57a9b64d3e00e02329e39d345b7624.png)
