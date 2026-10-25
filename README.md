@@ -7,9 +7,9 @@ The MIDI-Hero is a custom MIDI that mimics a *Guitar Hero* controller that was c
 #### Component BOM
 Below is a list of components you will need, and where I sourced them from.
 
-| Component | Units (how many of each set you will have to buy) | Price per unit | Source |
-| --- | --- | --- | --- |
-| PCB | 1 | $8.80 | <a href="https://jlcpcb.com/">JLPCB</a> |
+| Component | Units (how many of each set you will have to buy) | Price per unit | Source | Shipping |
+| --- | --- | --- | --- | --- |
+| PCB | 1 | $8.80 | <a href="https://jlcpcb.com/">JLPCB</a> | 
 
 #### Other
 Other than the above, you will need:
@@ -40,7 +40,8 @@ If you want the case and keycaps, you will need to either print them yourself or
 All of the STL files are in the STL folder.
 
 ## Quick Links
-**All links are closed until week 8, to ensure that the final product is functioning as well as possible**
-[Onshape Link]()
-[MakerWorld Project]()
+**Most links are closed until week 8, to ensure that the final product is functioning as well as possible**
+[Onshape Link](https://cad.onshape.com/documents/803e019473915473284985b7/w/5369c7bf15a9c38f460e8f27/e/4d2aae268f8e51d644058b62?renderMode=0&uiState=6ade3cdcaf9412f2ecaff7e0)
+
+[MakerWorld Project-- closed]()
 
